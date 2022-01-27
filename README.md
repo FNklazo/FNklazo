@@ -1,4 +1,4 @@
-Highschool Senior, somewhat aspiring programmer. 
+Highschool Senior, something of an aspiring programmer. 
 
 Plan to take this far more seriously when I've graduated and have time. 
 
