@@ -1,5 +1,4 @@
-[[ Highschool Senior\n
-   Something like an aspiring programmer. ]]
+i'm just learning code
 
 <!---
 FNklazo/FNklazo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
